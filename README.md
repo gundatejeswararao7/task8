@@ -1,1 +1,1 @@
-# task8
+Using ProtonVPN Free, my IP was masked and traffic encrypted while browsing. The VPN successfully hid my real IP and prevented DNS leaks. Browsing speed slightly decreased but remained usable. Benefits include privacy, IP masking, and protection on public Wi-Fi. Limitations include fewer server choices, minor speed reduction, and the fact that VPN does not prevent website tracking via cookies or fingerprinting.
