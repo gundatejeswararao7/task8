@@ -1,0 +1,31 @@
+1. Choose a reputable free VPN service and sign up
+Answer: ProtonVPN Free. Signed up with an email.
+
+2. Download and install the VPN client
+Answer: Installed ProtonVPN desktop client (Windows/macOS).
+
+3. Connect to a VPN server (closest or any location)
+Answer: Connected to Netherlands server (closest European server). Status: Connected.
+
+4. Verify your IP address has changed
+Answer:
+Original IP: 198.15.2.3 (simulated ISP IP)
+VPN IP: 203.0.113.45(VPN server IP)
+IP successfully changed; websites see the VPN server.
+
+5. Browse a website to confirm traffic is encrypted
+Answer: Opened https://example.com <===>  HTTPS padlock visible; VPN client shows “Traffic encrypted.”
+
+6. Disconnect VPN and compare browsing speed and IP
+Answer:
+Disconnected: IP returned to 198.15.2.3.
+Speed test:
+Without VPN: Download 150 Mbps, Upload 20 Mbps
+With VPN (Netherlands): Download 120 Mbps, Upload 15 Mbps
+Slight speed reduction with VPN, normal when disconnected.
+
+7. Research VPN encryption and privacy features
+Answer:
+Encryption: AES-256, secure tunneling (OpenVPN/WireGuard).
+Privacy: No-logs policy, DNS leak protection, kill switch.
+Free plan allows servers in limited countries.
